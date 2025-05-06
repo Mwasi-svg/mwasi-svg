@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<h1 align="center">Hi 👋, I'm Mwasi</h1>
+<h1 align="center">Hi 👋, I'm Turi</h1>
 <h3 align="center">A passionate developer from Kenya 🇰🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasi-svg&label=Profile%20views&color=0e75b6&style=flat" alt="mwasi-svg" /> </p>
