@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwasi-svg" alt="mwasi-svg" /></a> </p>
 
-- 🔭 I’m currently working on [MotoLabs Kenya](https://github.com/Mwasi-svg/motolabs-ke)
+- 🔭 I’m currently working on [MotoLabs Kenya](https://github.com/Mwasi-svg/motolabske)
 
 - 🌱 I’m currently learning **frameworks**
 
