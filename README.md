@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Turi</h1>
+<h1 align="center">Hi 👋, I'm Muturi</h1>
 <h3 align="center">A passionate developer from Kenya 🇰🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwasi-svg&label=Profile%20views&color=0e75b6&style=flat" alt="mwasi-svg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwasi-svg" alt="mwasi-svg" /></a> </p>
 
-- 🔭 I’m currently working on [AI-automation backend and frontend](https://github.com/Mwasi-svg/aiteam)
+- 🔭 I’m currently working on [MotoLabs Kenya](https://github.com/Mwasi-svg/motolabs-ke)
 
 - 🌱 I’m currently learning **frameworks**
 
